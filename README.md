@@ -33,8 +33,8 @@ e possíveis fatores que favorecem a propagação de incêndios.
 ## Desenvolvimento
 
 Para o desenvolvimento deste estudo serão utilizados dados provenientes de entidades oficiais, como o IPMA, ICNF e 
-Autoridade Nacional de Emergência e Proteção Civil. Serão analisadas variáveis como temperatura, humidade, velocidade 
-do vento, número de árvores caídas, vegetação seca e ocorrências de incêndios florestais.
+Autoridade Nacional de Emergência e Proteção Civil. Serão analisadas variáveis como temperatura, número de árvores caídas, 
+vegetação seca e ocorrências de incêndios florestais.
 
 Através de técnicas de análise exploratória de dados, como gráficos estatísticos, mapas geográficos, correlações e séries temporais, 
 será possível identificar áreas mais vulneráveis e compreender como os resíduos florestais resultantes da tempestade podem atuar como 
@@ -59,7 +59,9 @@ identificação de períodos críticos e apoio à tomada de decisão em contexto
 ---
 ## Resultados
 
-## KPIs - Area Ardida (Maio a Outubro 2025)
+## KPIs - Área Ardida (Maio a Outubro 2025)
+
+
 
 
 
