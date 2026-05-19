@@ -61,6 +61,8 @@ identificação de períodos críticos e apoio à tomada de decisão em contexto
 
 ## KPIs - Área Ardida (Maio a Outubro 2025)
 
+<p align="center">
+  <img src="imagens/01_cartao_temp_media_2025.png" width="220">
 
 
 
