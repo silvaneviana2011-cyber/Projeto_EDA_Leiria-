@@ -24,7 +24,7 @@ associados a estes fenómenos ambientais, permitindo compreender melhor os impac
 ## Objetivo
 
 O principal objetivo deste projeto é analisar a relação entre a queda de árvores causada pela Tempestade Kristin e o aumento do 
-risco de incêndios florestais no área compreendida de Leiria, marinha Grande e áreas costeiras. 
+risco de incêndios florestais no área compreendida de Leiria, Marinha Grande e áreas costeiras, e municípios adjacentes.
 Pretende-se explorar dados meteorológicos, ambientais e florestais para identificar padrões de vulnerabilidade 
 e possíveis fatores que favorecem a propagação de incêndios.
 
@@ -59,7 +59,9 @@ identificação de períodos críticos e apoio à tomada de decisão em contexto
 ---
 ## Resultados
 
-colocar resultados, gráficos em construção,,,
+## KPIs - Area Ardida (Maio a Outubro 2025)
+
+
 
 
 ---
