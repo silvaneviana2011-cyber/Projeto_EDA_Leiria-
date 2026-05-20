@@ -16,12 +16,12 @@ Análise exploratória e preditiva do impacto ambiental da Tempestade Kristin e 
 
 ## Tecnologias utilizadas
 Python
-Pandas
-Matplotlib
-Seaborn
-Streamlit
-Spyder
-GitHub
+| Pandas
+| Matplotlib
+| Seaborn
+| Streamlit
+| Spyder
+| GitHub
 
 
 <h2>Introdução</h2>
