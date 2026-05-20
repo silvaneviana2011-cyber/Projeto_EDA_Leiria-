@@ -70,7 +70,7 @@ identificação de períodos críticos e apoio à tomada de decisão em contexto
   <img src="imagens/02_cartao_temperatura-2025.png" width="150">
 
   ---
-  <img src="imagens/03_kpi_mes-critico_2025.png" width="150">
+  <img src="imagens/03_kpi_mes-critico_2025.png" width="140">
   </p>
 
 ---
