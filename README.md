@@ -64,43 +64,34 @@ identificação de períodos críticos e apoio à tomada de decisão em contexto
 <p align="esquerda">
 
   ---
-  <img src="imagens/01_cartao_temp_media_2025.png" width="180">
+  <img src="imagens/01_cartao_temp_media_2025.png" width="150">
 
   ---
   <img src="imagens/02_cartao_temperatura-2025.png" width="150">
 
   ---
   <img src="imagens/03_kpi_mes-critico_2025.png" width="150">
+  </p>
+
+---
+
+<img src="imagens/05_total.png" width="150">
 </p>
 
 ---
-
-
-
----
-
-<p align="esquerda">
-  <img src="imagens/04_kpi_no_total_incendio_2025.png" width="180">
-
-  ---
-  <img src="imagens/05_kpi_area_ardida_mes_critico_2025.png" width="180">
-
-  ---
- ![Área Ardida Total](imagens/kpis/05_total.png) 
+<img src="imagens/04_kpi_no_total_incendio_2025.png" width="150">
 
 ---
 
-<p align="esquerda">
-  <img src="imagens/06_analogia_area_ardida2025_leiria.png" width="180">
+  <img src="imagens/06_mes_critico_2025.png" width="160">
+  </p>
+
+---
+
+<img src="imagens/07_analogia.png" width="180">
 </p>
 
----
 
-
-
-
-
----
 ## Conclusão
 
 Espera-se que este projeto permita compreender melhor a ligação entre eventos climáticos extremos e o aumento do risco 
