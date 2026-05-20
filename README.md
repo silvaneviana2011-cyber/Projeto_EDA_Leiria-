@@ -75,20 +75,20 @@ identificação de períodos críticos e apoio à tomada de decisão em contexto
 
 ---
 
-<img src="imagens/05_total.png" width="150">
+<img src="imagens/05_total.png" width="140">
 </p>
 
 ---
-<img src="imagens/04_kpi_no_total_incendio_2025.png" width="150">
+<img src="imagens/04_kpi_no_total_incendio_2025.png" width="140">
 
 ---
 
-  <img src="imagens/06_mes_critico_2025.png" width="160">
+  <img src="imagens/06_mes_critico_2025.png" width="140">
   </p>
 
 ---
 
-<img src="imagens/07_analogia.png" width="180">
+<img src="imagens/07_analogia.png" width="150">
 </p>
 
 
