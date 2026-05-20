@@ -176,7 +176,7 @@ Este cenário reforça a importância da monitorização ambiental contínua e d
 gestão florestal, permitindo reduzir a vulnerabilidade do território perante eventos climáticos extremos e incêndios futuros.
 
 <p style="font-size:12px;">
-Legenda: As cores a verde mais escuros e verde médio, a claro são os tipos de árvores afetadas na tempestade.
+Legenda: As cores a verde mais escuro e verde médio, a claro são os tipos de árvores afetadas na tempestade.
 </p>
 
 
