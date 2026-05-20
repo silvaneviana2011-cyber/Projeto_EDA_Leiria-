@@ -91,14 +91,82 @@ identificação de períodos críticos e apoio à tomada de decisão em contexto
 <img src="imagens/07_analogia.png" width="150">
 </p>
 
+---
+
+1) <img src="imagens/graficos/graficos/plotbar_area_ardida_2025.png" width="700">
+
+<p style="font-size:12px;">
+
+
+---
+
+2) <img src="imagens/graficos/graficos/plotbar_numero_incendios_2025.png" width="700">
+
+O gráfico demonstra a evolução mensal da área ardida entre Maio e Outubro de 2025, evidenciando aumento 
+significativo durante os meses de verão, especialmente em Julho, período identificado como o mais crítico da análise.
+</p>
+
+---
+
+3) <img src="imagens/graficos/graficos/plotbarh_area_ardida_2025.png" width="700">
+
+---
+
+4) <img src="imagens/graficos/graficos/plotbarh_numero_incendios_2025.png" width="700">
+
+---
+
+5) <img src="imagens/graficos/graficos/piechart_area_ardida_2025.png" width="700">
+
+---
+
+6) <img src="imagens/graficos/graficos/piechart_numero_incendios_2025.png" width="700">
+
+<p style="font-size:12px;">
+O gráfico circular apresenta a distribuição percentual do número de incêndios florestais por mês em 2025, 
+evidenciando maior concentração de ocorrências durante os meses mais quentes do período analisado.
+</p>
+
+---
+
+7)<img src="imagens/graficos/graficos/piechart_top5_cidades_ardidas_2025.png" width="700">
+
+<p style="font-size:12px;">
+O gráfico apresenta os cinco municípios com maior área ardida em 2025, permitindo identificar as regiões 
+mais afetadas pelos incêndios florestais durante o período analisado.
+</p>
+
+---
+
+8) <img src="imagens/graficos/graficos/heatmap_correlacao_2025.png" width="700"> 
+
+
+<p style="font-size:12px;">
+<b>PDSI</b> (Palmer Drought Severity Index): índice climatológico utilizado para avaliar a severidade da seca 
+e disponibilidade hídrica no solo, amplamente utilizado por entidades meteorológicas como o IPMA.
+</p>
+---
+
+## Análise Preditiva e Estratégias Preventivas
+
+<p style="font-size:12px;">
+Com base nos padrões identificados durante a análise exploratória, propõe-se a criação de um Centro de Inteligência 
+Ambiental e Monitorização Territorial, atuando de forma preventiva e integrada ao longo de todo o ano. 
+A proposta não pretende substituir entidades já existentes, como Bombeiros, Proteção Civil ou Autoridade 
+Nacional de Emergência, mas sim funcionar como estrutura complementar de apoio estratégico e operacional.
+
+Este centro poderia integrar equipas técnicas no terreno, sistemas de monitorização climática, drones de vigilância ambiental 
+e análise contínua de dados meteorológicos e florestais. O objetivo seria identificar precocemente riscos associados a tempestades, 
+queda de árvores, acumulação de biomassa seca e potenciais focos de incêndio, permitindo uma atuação mais rápida, coordenada e 
+preventiva em articulação com as restantes instituições.
+</p>
+
 
 ## Conclusão
 
-Espera-se que este projeto permita compreender melhor a ligação entre eventos climáticos extremos e o aumento do risco 
-de incêndios florestais no distrito de Leiria. A identificação de padrões e fatores críticos poderá contribuir para o 
-desenvolvimento de estratégias de prevenção mais eficazes, reduzindo impactos ambientais, económicos e sociais.
-Desta forma, a análise de dados torna-se uma ferramenta fundamental no apoio à proteção civil, gestão florestal 
-e planeamento sustentável do território.
+Espera-se que este projeto contribua para uma melhor compreensão da relação entre fenómenos climáticos extremos e o aumento do risco de incêndios florestais no distrito de Leiria e regiões adjacentes. A identificação de padrões climáticos, áreas vulneráveis e fatores críticos poderá apoiar o desenvolvimento de estratégias preventivas mais eficazes, reduzindo impactos ambientais, económicos e sociais.
+
+Desta forma, a análise de dados assume um papel fundamental no apoio à proteção civil, gestão florestal e planeamento sustentável do território, tornando-se igualmente uma ferramenta relevante no suporte à tomada de decisão estratégica, monitorização ambiental e implementação de medidas preventivas de atuação rápida e coordenada.
 
 
 
