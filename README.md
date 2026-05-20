@@ -6,6 +6,24 @@
 # Projeto_EDA_Leiria-
 Análise exploratória e preditiva do impacto ambiental da Tempestade Kristin e do risco de incêndios florestais no distrito de Leiria. 
 
+## Índice
+- Introdução
+- Objetivo
+- Desenvolvimento
+- Outputs
+- Análise Preditiva
+- Conclusão
+
+## Tecnologias utilizadas
+Python
+Pandas
+Matplotlib
+Seaborn
+Streamlit
+Spyder
+GitHub
+
+
 <h2>Introdução</h2>
 
 
@@ -145,6 +163,23 @@ mais afetadas pelos incêndios florestais durante o período analisado.
 <b>PDSI</b> (Palmer Drought Severity Index): índice climatológico utilizado para avaliar a severidade da seca 
 e disponibilidade hídrica no solo, amplamente utilizado por entidades meteorológicas como o IPMA.
 </p>
+---
+
+<img src="imagens/mapa/copernicus_arvores_tombadas.png" width="900"> 
+
+A imagem Copernicus evidencia a dimensão do impacto provocado pela tempestade, demonstrando extensas áreas afetadas 
+pela queda de árvores e acumulação de biomassa seca no terreno. A presença significativa de madeira caída e vegetação 
+danificada representa um potencial fator de risco para a propagação de incêndios florestais, especialmente durante os 
+períodos de temperaturas elevadas e baixa humidade.
+
+Este cenário reforça a importância da monitorização ambiental contínua e da implementação de estratégias preventivas de 
+gestão florestal, permitindo reduzir a vulnerabilidade do território perante eventos climáticos extremos e incêndios futuros.
+
+<p style="font-size:12px;">
+Legenda: As cores a verde mais escuros e verde médio, a claro são os tipos de árvores afetadas na tempestade.
+</p>
+
+
 ---
 
 ## Análise Preditiva e Estratégias Preventivas
