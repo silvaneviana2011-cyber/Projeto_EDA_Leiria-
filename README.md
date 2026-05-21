@@ -42,7 +42,7 @@ associados a estes fenómenos ambientais, permitindo compreender melhor os impac
 ## Objetivo
 
 O principal objetivo deste projeto é analisar a relação entre a queda de árvores causada pela Tempestade Kristin e o aumento do 
-risco de incêndios florestais no área compreendida de Leiria, Marinha Grande e áreas costeiras, e municípios adjacentes.
+risco de incêndios florestais na área compreendida de Leiria, Marinha Grande e áreas costeiras, e municípios adjacentes.
 Pretende-se explorar dados meteorológicos, ambientais e florestais para identificar padrões de vulnerabilidade 
 e possíveis fatores que favorecem a propagação de incêndios.
 
@@ -171,10 +171,19 @@ de incêndios durante o período analisado, sendo identificado como o mês mais 
 9) <img src="imagens/graficos/graficos/heatmap_correlacao_2025.png" width="700"> 
 
 
+
 <p style="font-size:12px;">
-<b>PDSI</b> (Palmer Drought Severity Index): índice climatológico utilizado para avaliar a severidade da seca 
+Durante o desenvolvimento da análise, verificou-se que os dados relativos à velocidade do vento e 
+humidade relativa do ar apresentavam limitações de disponibilidade e consistência temporal para o período estudado. 
+Por esse motivo, a abordagem analítica foi ajustada, priorizando variáveis com maior robustez e continuidade de dados, 
+como temperatura média, área ardida e número de incêndios florestais.
+  
+</p>
+Legenda: <b>PDSI</b> (Palmer Drought Severity Index): índice climatológico utilizado para avaliar a severidade da seca 
 e disponibilidade hídrica no solo, amplamente utilizado por entidades meteorológicas como o IPMA.
 </p>
+
+
 ---
 
 <img src="imagens/mapa/copernicus_arvores_tombadas.png" width="900"> 
@@ -190,6 +199,14 @@ gestão florestal, permitindo reduzir a vulnerabilidade do território perante e
 <p style="font-size:12px;">
 Legenda: As cores a verde mais escuro e verde médio, a claro são os tipos de árvores afetadas na tempestade.
 </p>
+
+
+## Vídeo de Contextualização Ambiental
+
+[▶️ SIC Notícias – Drone mostra destruição no Pinhal de Leiria](https://www.instagram.com/reel/DULec_RiJLG/)
+
+<p style="font-size:12px;">
+Legenda: SIC Notícias (Instagram) Imagens de drone
 
 
 ---
@@ -214,6 +231,12 @@ preventiva em articulação com as restantes instituições.
 Espera-se que este projeto contribua para uma melhor compreensão da relação entre fenómenos climáticos extremos e o aumento do risco de incêndios florestais no distrito de Leiria e regiões adjacentes. A identificação de padrões climáticos, áreas vulneráveis e fatores críticos poderá apoiar o desenvolvimento de estratégias preventivas mais eficazes, reduzindo impactos ambientais, económicos e sociais.
 
 Desta forma, a análise de dados assume um papel fundamental no apoio à proteção civil, gestão florestal e planeamento sustentável do território, tornando-se igualmente uma ferramenta relevante no suporte à tomada de decisão estratégica, monitorização ambiental e implementação de medidas preventivas de atuação rápida e coordenada.
+
+---
+
+🎓 Contexto Académico
+
+Projeto desenvolvido no âmbito da UFCD Análise Exploratória de Dados (GICD) integrado na formação em análise de dados e visualização exploratória, sob orientação do Professor Albano Afonso. 
 
 
 
