@@ -236,7 +236,7 @@ Desta forma, a análise de dados assume um papel fundamental no apoio à proteç
 
 🎓 Contexto Académico
 
-Projeto desenvolvido no âmbito da UFCD Análise Exploratória de Dados (GICD) integrado na formação em análise de dados e visualização exploratória, sob orientação do Professor Albano Afonso. 
+Projeto desenvolvido no âmbito da UFCD Análise Exploratória de Dados (GICD) integrado na formação em Análise de Dados e Visualização exploratória, sob orientação do Professor Albano Afonso. 
 
 
 
