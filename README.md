@@ -111,14 +111,14 @@ identificação de períodos críticos e apoio à tomada de decisão em contexto
 
 ---
 
-1) <img src="imagens/graficos/graficos/plotbar_area_ardida_2025.png" width="700">
+1) <img src="imagens/graficos/graficos/new_color01.png" width="700">
 
 <p style="font-size:12px;">
 
 
 ---
 
-2) <img src="imagens/graficos/graficos/plotbar_numero_incendios_2025.png" width="700">
+2) <img src="imagens/graficos/graficos/new_color02.png" width="700">
 
 O gráfico demonstra a evolução mensal da área ardida entre Maio e Outubro de 2025, evidenciando aumento 
 significativo durante os meses de verão, especialmente em Julho, período identificado como o mais crítico da análise.
@@ -126,11 +126,11 @@ significativo durante os meses de verão, especialmente em Julho, período ident
 
 ---
 
-3) <img src="imagens/graficos/graficos/plotbarh_area_ardida_2025.png" width="700">
+3) <img src="imagens/graficos/graficos/new_color03.png" width="700">
 
 ---
 
-4) <img src="imagens/graficos/graficos/plotbarh_numero_incendios_2025.png" width="700">
+4) <img src="imagens/graficos/graficos/new_color04.png" width="700">
 
 ---
 
