@@ -177,6 +177,10 @@ Durante o desenvolvimento da análise, verificou-se que os dados relativos à ve
 humidade relativa do ar apresentavam limitações de disponibilidade e consistência temporal para o período estudado. 
 Por esse motivo, a abordagem analítica foi ajustada, priorizando variáveis com maior robustez e continuidade de dados, 
 como temperatura média, área ardida e número de incêndios florestais.
+A variável PDSI não apresentou correlação significativa com as restantes variáveis analisadas durante o período estudado. 
+Uma possível explicação reside no facto de os períodos de seca mais severa e baixa humidade do solo poderem ter ocorrido 
+noutras estações do ano, fora do intervalo temporal de maior incidência de incêndios considerado nesta análise.
+</p>
   
 </p>
 Legenda: <b>PDSI</b> (Palmer Drought Severity Index): índice climatológico utilizado para avaliar a severidade da seca 
