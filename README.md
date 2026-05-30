@@ -132,6 +132,10 @@ significativo durante os meses de verão, especialmente em Julho, período ident
 
 2) <img src="imagens/graficos/graficos/new_color04.png" width="700">
 
+<p style="font-size:12px;">
+O gráfico mostra o número de incêndios em Leiria e cidades adjacentes, e o mês crítico nessa área, embora os registos 
+em todo o Distrito aumenta significativamente se fosse considerado o todo. 
+
 ---
 
 3) <img src="imagens/graficos/graficos/piechart_area_ardida_2025.png" width="700">
@@ -150,20 +154,10 @@ evidenciando maior concentração de ocorrências durante os meses mais quentes 
 5)<img src="imagens/graficos/graficos/piechart_top5_cidades_ardidas_2025.png" width="700">
 
 <p style="font-size:12px;">
-O gráfico apresenta os cinco municípios com maior área ardida em 2025, permitindo identificar as regiões 
-mais afetadas pelos incêndios florestais durante o período analisado.
+O gráfico apresenta os cinco municípios com maior área ardida em 2025, foram analisadas a cidade de Leiria e os municípios adjacentes
+permitindo identificar as regiões mais afetadas pelos incêndios florestais durante o período analisado.
 </p>
 
----
-
-6) <img src="imagens/graficos/graficos/tabela_indicadores.png" width="900">
-
-<p style="font-size:12px;">
-A tabela consolidada apresenta os principais indicadores utilizados na análise exploratória, 
-incluindo temperatura, área ardida e número de incêndios florestais. O destaque dado ao mês de Julho 
-deve-se ao facto de este ter registado os valores mais elevados de temperatura e maior número de ocorrências 
-de incêndios durante o período analisado, sendo identificado como o mês mais crítico da análise.
-</p>
 
 ---
 
