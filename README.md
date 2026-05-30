@@ -105,6 +105,7 @@ biomassa combustível associado à Tempestade Kristin como fator de risco para i
 </p>
 
 ---
+
 <img src="imagens/no_tot_inc_edit.png" width="140">
 
 ---
@@ -119,34 +120,25 @@ biomassa combustível associado à Tempestade Kristin como fator de risco para i
 
 ---
 
-1) <img src="imagens/graficos/graficos/new_color01.png" width="700">
 
-<p style="font-size:12px;">
+1) <img src="imagens/graficos/graficos/new_color03.png" width="700">
 
-
----
-
-2) <img src="imagens/graficos/graficos/new_color02.png" width="700">
-
+<p style="font-size:12px;"> 
 O gráfico demonstra a evolução mensal da área ardida entre Maio e Outubro de 2025, evidenciando aumento 
 significativo durante os meses de verão, especialmente em Julho, período identificado como o mais crítico da análise.
 </p>
 
 ---
 
-3) <img src="imagens/graficos/graficos/new_color03.png" width="700">
+2) <img src="imagens/graficos/graficos/new_color04.png" width="700">
 
 ---
 
-4) <img src="imagens/graficos/graficos/new_color04.png" width="700">
+3) <img src="imagens/graficos/graficos/piechart_area_ardida_2025.png" width="700">
 
 ---
 
-5) <img src="imagens/graficos/graficos/piechart_area_ardida_2025.png" width="700">
-
----
-
-6) <img src="imagens/graficos/graficos/piechart_numero_incendios_2025.png" width="700">
+4) <img src="imagens/graficos/graficos/piechart_numero_incendios_2025.png" width="700">
 
 <p style="font-size:12px;">
 O gráfico circular apresenta a distribuição percentual do número de incêndios florestais por mês em 2025, 
@@ -155,7 +147,7 @@ evidenciando maior concentração de ocorrências durante os meses mais quentes 
 
 ---
 
-7)<img src="imagens/graficos/graficos/piechart_top5_cidades_ardidas_2025.png" width="700">
+5)<img src="imagens/graficos/graficos/piechart_top5_cidades_ardidas_2025.png" width="700">
 
 <p style="font-size:12px;">
 O gráfico apresenta os cinco municípios com maior área ardida em 2025, permitindo identificar as regiões 
@@ -164,7 +156,7 @@ mais afetadas pelos incêndios florestais durante o período analisado.
 
 ---
 
-8) <img src="imagens/graficos/graficos/tabela_indicadores.png" width="900">
+6) <img src="imagens/graficos/graficos/tabela_indicadores.png" width="900">
 
 <p style="font-size:12px;">
 A tabela consolidada apresenta os principais indicadores utilizados na análise exploratória, 
@@ -176,7 +168,7 @@ de incêndios durante o período analisado, sendo identificado como o mês mais 
 ---
 
 
-9) <img src="imagens/graficos/graficos/heatmap_correlacao_2025.png" width="700"> 
+7) <img src="imagens/graficos/graficos/heatmap_correlacao_2025.png" width="700"> 
 
 
 
