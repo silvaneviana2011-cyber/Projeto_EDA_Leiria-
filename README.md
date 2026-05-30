@@ -100,11 +100,12 @@ biomassa combustível associado à Tempestade Kristin como fator de risco para i
 
 ---
 
-<img src="imagens/05_total.png" width="140">
+<img src="imagens/area_total_edit.png" width="140">
+
 </p>
 
 ---
-<img src="imagens/04_kpi_no_total_incendio_2025.png" width="140">
+<img src="imagens/no_tot_inc_edit.png" width="140">
 
 ---
 
