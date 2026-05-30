@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="capa_eda.png">
-</p>
+<img src="imagens/capa_eda.png" width="900">
+</p> 
 
 
 # Projeto_EDA_Leiria-
