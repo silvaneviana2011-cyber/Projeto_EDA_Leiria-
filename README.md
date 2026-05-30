@@ -78,6 +78,13 @@ identificação de períodos críticos e apoio à tomada de decisão em contexto
 ## Resultados
 
 ## KPIs - Área Ardida (Maio a Outubro 2025)
+<p style="font-size:12px;">
+Por limitação dos Dados foi considerado um intervalo 18/08/2025 a 11/11/2025 (agosto a novembro)
+Período disponível no dataset IPMA. 
+A limitação temporal dos dados de temperatura não compromete as restantes análises. 
+Mantêm-se válidas as conclusões sobre a seca, a área ardida e o potencial aumento da 
+biomassa combustível associado à Tempestade Kristin como fator de risco para incêndios florestais.
+
 
 <p align="esquerda">
 
